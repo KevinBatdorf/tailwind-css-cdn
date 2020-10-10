@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-custom-cdn",
+  "name": "tailwind-css-cdn",
   "version": "0.2.1",
   "description": "A simple tool for creating custom Tailwind CSS builds for CDN access",
   "main": "index.js",
