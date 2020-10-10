@@ -7,7 +7,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KevinBatdorf/tailwind-custom-cdn.git"
+    "url": "git+https://github.com/KevinBatdorf/tailwind-css-cdn.git"
   },
   "keywords": [
     "Tailwind",
@@ -16,9 +16,9 @@
   "author": "Kevin Batdorf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KevinBatdorf/tailwind-custom-cdn/issues"
+    "url": "https://github.com/KevinBatdorf/tailwind-css-cdn/issues"
   },
-  "homepage": "https://github.com/KevinBatdorf/tailwind-custom-cdn#readme",
+  "homepage": "https://github.com/KevinBatdorf/tailwind-css-cdn#readme",
   "dependencies": {
     "tailwindcss": "^1.8.12"
   }
